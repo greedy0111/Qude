@@ -10,4 +10,4 @@ GSAP 라이브러리를 활용한 인터랙션 구현에 중점을 두어 클론
 
 ## 🔍 Overview
 
-![screencapture](https://github.com/greedy0111/portfolio_overview_images/blob/main/Qude.jpg?raw=true)
+![screencapture](https://github.com/greedy0111/greedy0111-portfolio_overview_images/blob/main/Qude.jpg?raw=true)
